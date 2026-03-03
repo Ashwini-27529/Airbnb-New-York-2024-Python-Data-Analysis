@@ -76,7 +76,7 @@ Created a normalized pricing metric:
 
 ```python
 price_per_bed = price / beds
-
+```
 ---
 
 ## 3️⃣ Aggregation & Grouping
