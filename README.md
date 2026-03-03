@@ -144,4 +144,4 @@ Used Pandas `groupby()` to compute:
 After uploading your image to the repository, add:
 
 ```markdown
-![Borough Price Analysis](borough_analysis.png)
+![Borough Price Analysis](Availability 365 distribution.png)
