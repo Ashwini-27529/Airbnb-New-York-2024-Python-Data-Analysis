@@ -141,23 +141,23 @@ Used Pandas `groupby()` to compute:
 
 ## Output 
 
-#Price Distribution
+# Price Distribution
 ![Price Distribution](https://github.com/Ashwini-27529/Airbnb-New-York-2024-Python-Data-Analysis/blob/main/Images/Price%20Distribution.png)
 
 
-#Availability 365 Distribution
+# Availability 365 Distribution
 ![Availability 365 Distribution](https://github.com/Ashwini-27529/Airbnb-New-York-2024-Python-Data-Analysis/blob/main/Images/Availability%20365%20distribution.png)
 
 
-#Geographical Distribution
+# Geographical Distribution
 ![Geographical Distribution](https://github.com/Ashwini-27529/Airbnb-New-York-2024-Python-Data-Analysis/blob/main/Images/Geographical%20Distribution.png)
 
 
-#Locality and Review Dependence
+# Locality and Review Dependence
 ![Locality and Review Dependence](https://github.com/Ashwini-27529/Airbnb-New-York-2024-Python-Data-Analysis/blob/main/Images/Locality%20and%20Review%20Dependency.png)
 
 
-#Neighbourhood_Group
+# Neighbourhood_Group
 ![neighbourhood_Group](https://github.com/Ashwini-27529/Airbnb-New-York-2024-Python-Data-Analysis/blob/main/Images/neighbourhood_Group.png)
 
 
